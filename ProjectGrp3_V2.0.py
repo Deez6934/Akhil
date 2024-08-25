@@ -893,8 +893,8 @@ def intro():  # Self explanatory
         "STUDENT INFORMATION\nSYSTEM PROJECT\n")
     print("Group No :", "3\n")
     print("Done By :",
-          "Akhil Sajan Mathew, Jeswin Thomas, Jeswin Jo Varghese, Jibin Thomas\n")
-    print("SCHOOL :", "St.Anthony Public School")
+          "xyz\n")
+    print("SCHOOL :", "xyz")
     print("=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x")
     time.sleep(1)
 
